@@ -1,0 +1,3 @@
+Hoy aprendí cómo manejar archivos en Java.
+Entendí la diferencia entre FileWriter y BufferedReader.
+También practiqué el uso de try-with-resources.
